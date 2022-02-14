@@ -3,6 +3,12 @@
     <PropertyGroup>
         <TargetFramework>netstandard2.1</TargetFramework>
         <Nullable>enable</Nullable>
+        <Title>DataBuilder</Title>
+        <Authors>ronimizy</Authors>
+        <Description>A data builder (JSON) abstraction using Dispose pattern</Description>
+        <RepositoryUrl>https://github.com/ronimizy/DataBuilder</RepositoryUrl>
+        <RepositoryType>github</RepositoryType>
+        <PackageTags>json; data; builder;</PackageTags>
     </PropertyGroup>
     
 </Project>
